@@ -1,0 +1,16 @@
+{
+  "name": "ObtenerTemperatura",
+  "version": "1.0.0",
+  "description": "Demo API GET Temperatura",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "author": "<Paula Salgado>",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0",
+    "request":"^1.0.0"
+  }
+ }
